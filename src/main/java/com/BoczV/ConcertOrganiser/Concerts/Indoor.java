@@ -14,4 +14,5 @@ public class Indoor extends Concert {
     public int makeProfit() {
         return (int)(actualCapacity * ticketPrice * 0.4) + buyBeers();
     }
+
 }

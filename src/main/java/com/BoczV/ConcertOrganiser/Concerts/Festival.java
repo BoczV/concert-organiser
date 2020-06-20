@@ -10,4 +10,5 @@ public class Festival extends ConcertWithoutRoof {
         beerPrice = 1000;
         setConcertData();
     }
+
 }

@@ -10,4 +10,5 @@ public abstract class ConcertWithoutRoof extends Concert {
         }
         return 0;
     }
+    
 }
